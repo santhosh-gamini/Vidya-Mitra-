@@ -1,0 +1,11 @@
+{
+  "name": "Remix VidyaMitra ",
+  "description": "AI-powered resume evaluator, career trainer, and interview preparation platform.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
